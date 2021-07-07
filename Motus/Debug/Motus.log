@@ -1,0 +1,6 @@
+﻿  Motus.cpp
+C:\Users\hakim\OneDrive\Bureau\Jeu Motus\Motus\Motus\Motus.cpp(28,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\hakim\OneDrive\Bureau\Jeu Motus\Motus\Motus\Motus.cpp(46,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\hakim\OneDrive\Bureau\Jeu Motus\Motus\Motus\Motus.cpp(119,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\hakim\OneDrive\Bureau\Jeu Motus\Motus\Motus\Motus.cpp(102): warning C4715: 'import_from_file' : les chemins de contrôle ne retournent pas tous une valeur
+  Motus.vcxproj -> C:\Users\hakim\OneDrive\Bureau\Jeu Motus\Motus\Debug\Motus.exe
